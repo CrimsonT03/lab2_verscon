@@ -19,6 +19,10 @@ class MainApp extends StatelessWidget {
                       onPressed: (){},
                       child: const Text("Click Me"),
                   ),
+                  ElevatedButton(
+                    onPressed: (){},
+                    child: const Text("Click Me Twice"),
+                  ),
                 ],
               )
           )
